@@ -17,10 +17,10 @@ namespace shoppingstore.Controllers
             string message = HttpUtility.HtmlEncode(" showing category" + category);
             return message;
         }
-        public string Details(int id)
+        public ActionResult Details(int id)
         {
-            string message = "store details" + id;
-            return message;
+            var Item = new Item { Title = "item" + id };
+            return View(Item);
         }
     }
 }

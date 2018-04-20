@@ -10,6 +10,7 @@ namespace shoppingstore.Models
 {
     public class Item
     {
-        
+        public string Title { get; set; }
+        public Category Category { get; set; }
     }
 }
