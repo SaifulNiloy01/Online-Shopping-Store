@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.7\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.7\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
-  <Import Project="..\packages\Microsoft.Net.Compilers.2.1.0\build\Microsoft.Net.Compilers.props" Condition="Exists('..\packages\Microsoft.Net.Compilers.2.1.0\build\Microsoft.Net.Compilers.props')" />
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props" Condition="Exists('..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props')" />
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -9,16 +9,15 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{AABEBDE8-EB3A-4FB2-B4D8-399867F266FA}</ProjectGuid>
+    <ProjectGuid>{4824BD1B-ED4F-49C4-A658-12EBA4D7F49C}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>shoppingstore</RootNamespace>
     <AssemblyName>shoppingstore</AssemblyName>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <MvcBuildViews>false</MvcBuildViews>
     <UseIISExpress>true</UseIISExpress>
-    <Use64BitIISExpress />
     <IISExpressSSLPort />
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
@@ -26,6 +25,7 @@
     <UseGlobalApplicationHostFile />
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
+    <Use64BitIISExpress />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -37,7 +37,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
-    <DebugSymbols>true</DebugSymbols>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\</OutputPath>
@@ -46,8 +45,37 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=1.0.7.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
-      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.7\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    <Reference Include="Microsoft.AI.Agent.Intercept, Version=2.0.6.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.Agent.Intercept.2.0.6\lib\net45\Microsoft.AI.Agent.Intercept.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AI.DependencyCollector, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.DependencyCollector.2.2.0\lib\net45\Microsoft.AI.DependencyCollector.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AI.PerfCounterCollector, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.PerfCounterCollector.2.2.0\lib\net45\Microsoft.AI.PerfCounterCollector.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AI.ServerTelemetryChannel, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.WindowsServer.TelemetryChannel.2.2.0\lib\net45\Microsoft.AI.ServerTelemetryChannel.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AI.Web, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.Web.2.2.0\lib\net45\Microsoft.AI.Web.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AI.WindowsServer, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.WindowsServer.2.2.0\lib\net45\Microsoft.AI.WindowsServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ApplicationInsights, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.2.2.0\lib\net45\Microsoft.ApplicationInsights.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System" />
@@ -161,27 +189,6 @@
     <Reference Include="Microsoft.Owin.Security.MicrosoftAccount">
       <HintPath>..\packages\Microsoft.Owin.Security.MicrosoftAccount.3.0.1\lib\net45\Microsoft.Owin.Security.MicrosoftAccount.dll</HintPath>
     </Reference>
-    <Reference Include="Microsoft.ApplicationInsights">
-      <HintPath>..\packages\Microsoft.ApplicationInsights.2.2.0\lib\net45\Microsoft.ApplicationInsights.dll</HintPath>
-    </Reference>
-    <Reference Include="Microsoft.AI.Agent.Intercept">
-      <HintPath>..\packages\Microsoft.ApplicationInsights.Agent.Intercept.2.0.6\lib\net45\Microsoft.AI.Agent.Intercept.dll</HintPath>
-    </Reference>
-    <Reference Include="Microsoft.AI.DependencyCollector">
-      <HintPath>..\packages\Microsoft.ApplicationInsights.DependencyCollector.2.2.0\lib\net45\Microsoft.AI.DependencyCollector.dll</HintPath>
-    </Reference>
-    <Reference Include="Microsoft.AI.PerfCounterCollector">
-      <HintPath>..\packages\Microsoft.ApplicationInsights.PerfCounterCollector.2.2.0\lib\net45\Microsoft.AI.PerfCounterCollector.dll</HintPath>
-    </Reference>
-    <Reference Include="Microsoft.AI.ServerTelemetryChannel">
-      <HintPath>..\packages\Microsoft.ApplicationInsights.WindowsServer.TelemetryChannel.2.2.0\lib\net45\Microsoft.AI.ServerTelemetryChannel.dll</HintPath>
-    </Reference>
-    <Reference Include="Microsoft.AI.WindowsServer">
-      <HintPath>..\packages\Microsoft.ApplicationInsights.WindowsServer.2.2.0\lib\net45\Microsoft.AI.WindowsServer.dll</HintPath>
-    </Reference>
-    <Reference Include="Microsoft.AI.Web">
-      <HintPath>..\packages\Microsoft.ApplicationInsights.Web.2.2.0\lib\net45\Microsoft.AI.Web.dll</HintPath>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\BundleConfig.cs" />
@@ -190,27 +197,47 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\CheckoutController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
+    <Compile Include="Controllers\ShoppingCartController.cs" />
     <Compile Include="Controllers\StoreController.cs" />
+    <Compile Include="Controllers\StoreManagerController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201701230840443_InitialCreate.cs" />
+    <Compile Include="Migrations\201701230840443_InitialCreate.Designer.cs">
+      <DependentUpon>201701230840443_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
+    <Compile Include="Models\Cart.cs" />
     <Compile Include="Models\Category.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\Item.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
+    <Compile Include="Models\Order.cs" />
+    <Compile Include="Models\OrderDetail.cs" />
+    <Compile Include="Models\Producer.cs" />
+    <Compile Include="Models\SampleData.cs" />
+    <Compile Include="Models\ShoppingCart.cs" />
+    <Compile Include="Models\ShoppingStoreEntities.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
+    <Compile Include="ViewModels\ShoppingCartRemoveViewModel.cs" />
+    <Compile Include="ViewModels\ShoppingCartViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\bootstrap-responsive.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\Images\itemart.png" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="Scripts\action.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="ApplicationInsights.config">
@@ -227,7 +254,141 @@
     <Content Include="Scripts\modernizr-2.6.2.js" />
     <Content Include="Scripts\respond.js" />
     <Content Include="Scripts\respond.min.js" />
-    <Content Include="Web.config" />
+    <Content Include="Scripts\_references.js" />
+    <Content Include="themes\amelia\bootstrap.css" />
+    <Content Include="themes\amelia\bootstrap.min.css" />
+    <Content Include="themes\bootshop\bootstrap.min.css" />
+    <Content Include="themes\businessltd\bootstrap.min.css" />
+    <Content Include="themes\cerulean\bootstrap.min.css" />
+    <Content Include="themes\css\base.css" />
+    <Content Include="themes\css\bootstrap-responsive.min.css" />
+    <Content Include="themes\css\font-awesome-ie7.css" />
+    <Content Include="themes\css\font-awesome.css" />
+    <Content Include="themes\cyborg\bootstrap.min.css" />
+    <Content Include="themes\images\11.jpg" />
+    <Content Include="themes\images\American-Furniture.jpg" />
+    <Content Include="themes\images\b-1600.jpg" />
+    <Content Include="themes\images\beauty.jpg" />
+    <Content Include="themes\images\Body-Solid-Leg-Press-Hack-Squat.jpg" />
+    <Content Include="themes\images\chair.jpg" />
+    <Content Include="themes\images\coat.jpg" />
+    <Content Include="themes\images\coat2.jpg" />
+    <Content Include="themes\images\coffee philips.jpg" />
+    <Content Include="themes\images\dishwasher.jpg" />
+    <Content Include="themes\images\dress.jpg" />
+    <Content Include="themes\images\facebook.png" />
+    <Content Include="themes\images\food.jpg" />
+    <Content Include="themes\images\fridge.jpg" />
+    <Content Include="themes\images\GymVenture-Preacher-Bench-Workout-Equipment-Bicep-Curls.png" />
+    <Content Include="themes\images\harry.jpg" />
+    <Content Include="themes\images\headerRepeat.png" />
+    <Content Include="themes\images\ico-cart.png" />
+    <Content Include="themes\images\ico\apple-touch-icon-114-precomposed.png" />
+    <Content Include="themes\images\ico\apple-touch-icon-144-precomposed.png" />
+    <Content Include="themes\images\ico\apple-touch-icon-57-precomposed.png" />
+    <Content Include="themes\images\ico\apple-touch-icon-72-precomposed.png" />
+    <Content Include="themes\images\ico\favicon.ico" />
+    <Content Include="themes\images\lightbox\Close.png" />
+    <Content Include="themes\images\lightbox\lightbox-blank.gif" />
+    <Content Include="themes\images\lightbox\lightbox-btn-close.gif" />
+    <Content Include="themes\images\lightbox\lightbox-btn-next.gif" />
+    <Content Include="themes\images\lightbox\lightbox-btn-prev.gif" />
+    <Content Include="themes\images\lightbox\lightbox-ico-loading.gif" />
+    <Content Include="themes\images\lipstick.jpg" />
+    <Content Include="themes\images\logo.png" />
+    <Content Include="themes\images\mixer.jpg" />
+    <Content Include="themes\images\new.png" />
+    <Content Include="themes\images\payment_methods.png" />
+    <Content Include="themes\images\products\1.jpg" />
+    <Content Include="themes\images\products\10.jpg" />
+    <Content Include="themes\images\products\11.jpg" />
+    <Content Include="themes\images\products\12.jpg" />
+    <Content Include="themes\images\products\13.jpg" />
+    <Content Include="themes\images\products\2.jpg" />
+    <Content Include="themes\images\products\3.jpg" />
+    <Content Include="themes\images\products\4.jpg" />
+    <Content Include="themes\images\products\5.jpg" />
+    <Content Include="themes\images\products\6.jpg" />
+    <Content Include="themes\images\products\7.jpg" />
+    <Content Include="themes\images\products\8.jpg" />
+    <Content Include="themes\images\products\9.jpg" />
+    <Content Include="themes\images\products\b1.jpg" />
+    <Content Include="themes\images\products\b2.jpg" />
+    <Content Include="themes\images\products\b3.jpg" />
+    <Content Include="themes\images\products\b4.jpg" />
+    <Content Include="themes\images\products\kindle.png" />
+    <Content Include="themes\images\products\large\f1.jpg" />
+    <Content Include="themes\images\products\large\f2.jpg" />
+    <Content Include="themes\images\products\large\f3.jpg" />
+    <Content Include="themes\images\products\panasonic.jpg" />
+    <Content Include="themes\images\products\proto.png" />
+    <Content Include="themes\images\search.png" />
+    <Content Include="themes\images\shirt1.jpg" />
+    <Content Include="themes\images\shirt2.jpg" />
+    <Content Include="themes\images\tabRepeatInactive.png" />
+    <Content Include="themes\images\twitter.png" />
+    <Content Include="themes\images\washing machine.jpg" />
+    <Content Include="themes\images\youtube.png" />
+    <Content Include="themes\journal\img\glyphicons-halflings-white.png" />
+    <Content Include="themes\journal\img\glyphicons-halflings.png" />
+    <Content Include="themes\journal\bootstrap.min.css" />
+    <Content Include="themes\js\bootshop.js" />
+    <Content Include="themes\js\bootstrap.min.js" />
+    <Content Include="themes\js\google-code-prettify\prettify.css" />
+    <Content Include="themes\js\google-code-prettify\prettify.js" />
+    <Content Include="themes\js\jquery.js" />
+    <Content Include="themes\js\jquery.lightbox-0.5.js" />
+    <Content Include="themes\js\less.js" />
+    <Content Include="themes\readable\bootstrap.min.css" />
+    <Content Include="themes\simplex\bootstrap.min.css" />
+    <Content Include="themes\slate\bootstrap.min.css" />
+    <Content Include="themes\spacelab\bootstrap.min.css" />
+    <Content Include="themes\spruce\bootstrap.css" />
+    <Content Include="themes\spruce\bootstrap.min.css" />
+    <Content Include="themes\superhero\bootstrap.min.css" />
+    <Content Include="themes\switch\images\clr\amelia.png" />
+    <Content Include="themes\switch\images\clr\bootshop.png" />
+    <Content Include="themes\switch\images\clr\businessltd.png" />
+    <Content Include="themes\switch\images\clr\cerulean.png" />
+    <Content Include="themes\switch\images\clr\cyborg.png" />
+    <Content Include="themes\switch\images\clr\journal.png" />
+    <Content Include="themes\switch\images\clr\readable.png" />
+    <Content Include="themes\switch\images\clr\simplex.png" />
+    <Content Include="themes\switch\images\clr\slate.png" />
+    <Content Include="themes\switch\images\clr\spacelab.png" />
+    <Content Include="themes\switch\images\clr\spruce.png" />
+    <Content Include="themes\switch\images\clr\superhero.png" />
+    <Content Include="themes\switch\images\clr\united.png" />
+    <Content Include="themes\switch\images\pattern\pattern1.png" />
+    <Content Include="themes\switch\images\pattern\pattern10.png" />
+    <Content Include="themes\switch\images\pattern\pattern11.png" />
+    <Content Include="themes\switch\images\pattern\pattern12.png" />
+    <Content Include="themes\switch\images\pattern\pattern13.png" />
+    <Content Include="themes\switch\images\pattern\pattern14.png" />
+    <Content Include="themes\switch\images\pattern\pattern15.png" />
+    <Content Include="themes\switch\images\pattern\pattern16.png" />
+    <Content Include="themes\switch\images\pattern\pattern16~.png" />
+    <Content Include="themes\switch\images\pattern\pattern17.png" />
+    <Content Include="themes\switch\images\pattern\pattern17~.png" />
+    <Content Include="themes\switch\images\pattern\pattern18.png" />
+    <Content Include="themes\switch\images\pattern\pattern19.png" />
+    <Content Include="themes\switch\images\pattern\pattern19~.png" />
+    <Content Include="themes\switch\images\pattern\pattern2.png" />
+    <Content Include="themes\switch\images\pattern\pattern20.png" />
+    <Content Include="themes\switch\images\pattern\pattern20~.png" />
+    <Content Include="themes\switch\images\pattern\pattern3.png" />
+    <Content Include="themes\switch\images\pattern\pattern4.png" />
+    <Content Include="themes\switch\images\pattern\pattern5.png" />
+    <Content Include="themes\switch\images\pattern\pattern6.png" />
+    <Content Include="themes\switch\images\pattern\pattern7.png" />
+    <Content Include="themes\switch\images\pattern\pattern8.png" />
+    <Content Include="themes\switch\images\pattern\pattern9.png" />
+    <Content Include="themes\switch\theamswitcher.js" />
+    <Content Include="themes\switch\themeswitch.css" />
+    <Content Include="themes\united\bootstrap.min.css" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </Content>
@@ -262,22 +423,89 @@
     <Content Include="Views\Shared\Lockout.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
     <Content Include="Views\Store\Details.cshtml" />
+    <Content Include="Views\Store\Browse.cshtml" />
+    <Content Include="Views\Store\Index.cshtml" />
+    <Content Include="Views\StoreManager\Create.cshtml" />
+    <Content Include="Views\StoreManager\Delete.cshtml" />
+    <Content Include="Views\StoreManager\Details.cshtml" />
+    <Content Include="Views\StoreManager\Edit.cshtml" />
+    <Content Include="Views\StoreManager\Index.cshtml" />
+    <Content Include="Views\ShoppingCart\Index.cshtml" />
+    <Content Include="Views\Checkout\AddressAndPayment.cshtml" />
+    <Content Include="Views\Checkout\Complete.cshtml" />
+    <Content Include="Views\ShoppingCart\CartSummary.cshtml" />
+    <Content Include="Views\Store\CategoryMenu.cshtml" />
+    <Content Include="themes\less\simplex\bootswatch.less" />
+    <Content Include="themes\less\simplex\variables.less" />
+    <Content Include="themes\less\bootshop\main.less" />
+    <Content Include="themes\less\bootshop\variables.less" />
+    <Content Include="themes\less\amelia\bootswatch.less" />
+    <Content Include="themes\less\amelia\variables.less" />
+    <Content Include="themes\less\accordion.less" />
+    <Content Include="themes\less\alerts.less" />
+    <Content Include="themes\less\amelia.less" />
+    <Content Include="themes\less\bootshop.less" />
+    <Content Include="themes\less\bootstrap.less" />
+    <Content Include="themes\less\breadcrumbs.less" />
+    <Content Include="themes\less\button-groups.less" />
+    <Content Include="themes\less\buttons.less" />
+    <Content Include="themes\less\carousel.less" />
+    <Content Include="themes\less\classified.less" />
+    <Content Include="themes\less\close.less" />
+    <Content Include="themes\less\code.less" />
+    <Content Include="themes\less\component-animations.less" />
+    <Content Include="themes\less\dropdowns.less" />
+    <Content Include="themes\less\font-awesome-ie7.less" />
+    <Content Include="themes\less\font-awesome.less" />
+    <Content Include="themes\less\forms.less" />
+    <Content Include="themes\less\grid.less" />
+    <Content Include="themes\less\hero-unit.less" />
+    <Content Include="themes\less\labels-badges.less" />
+    <Content Include="themes\less\layouts.less" />
+    <Content Include="themes\less\mixins.less" />
+    <Content Include="themes\less\modals.less" />
+    <Content Include="themes\less\navbar.less" />
+    <Content Include="themes\less\navs.less" />
+    <Content Include="themes\less\pager.less" />
+    <Content Include="themes\less\pagination.less" />
+    <Content Include="themes\less\popovers.less" />
+    <Content Include="themes\less\progress-bars.less" />
+    <Content Include="themes\less\reset.less" />
+    <Content Include="themes\less\responsive-1200px-min.less" />
+    <Content Include="themes\less\responsive-767px-max.less" />
+    <Content Include="themes\less\responsive-768px-979px.less" />
+    <Content Include="themes\less\responsive-navbar.less" />
+    <Content Include="themes\less\responsive-utilities.less" />
+    <Content Include="themes\less\responsive.less" />
+    <Content Include="themes\less\scaffolding.less" />
+    <Content Include="themes\less\simplex.less" />
+    <Content Include="themes\less\sprites.less" />
+    <Content Include="themes\less\tables.less" />
+    <Content Include="themes\less\thumbnails.less" />
+    <Content Include="themes\less\tooltip.less" />
+    <Content Include="themes\less\type.less" />
+    <Content Include="themes\less\utilities.less" />
+    <Content Include="themes\less\variables.less" />
+    <Content Include="themes\less\wells.less" />
+    <Content Include="themes\images\iStockLarge.jpg.crdownload" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="themes\images\carousel\" />
+    <Folder Include="themes\less\oregional\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
-  </ItemGroup>
-  <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
-  </ItemGroup>
-  <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="packages.config" />
+    <None Include="Project_Readme.html" />
+    <Content Include="Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="packages.config" />
-    <Content Include="Scripts\jquery-1.10.2.min.map" />
+    <EmbeddedResource Include="Migrations\201701230840443_InitialCreate.resx">
+      <DependentUpon>201701230840443_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
@@ -295,9 +523,9 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>22798</DevelopmentServerPort>
+          <DevelopmentServerPort>53864</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:22798/</IISUrl>
+          <IISUrl>http://localhost:53864/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
@@ -311,8 +539,8 @@
     <PropertyGroup>
       <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
     </PropertyGroup>
-    <Error Condition="!Exists('..\packages\Microsoft.Net.Compilers.2.1.0\build\Microsoft.Net.Compilers.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Net.Compilers.2.1.0\build\Microsoft.Net.Compilers.props'))" />
-    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.7\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.7\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
   </Target>
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
        Other similar extension points exist, see Microsoft.Common.targets.

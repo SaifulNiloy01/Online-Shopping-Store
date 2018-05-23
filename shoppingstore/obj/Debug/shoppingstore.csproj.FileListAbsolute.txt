@@ -1,140 +1,168 @@
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\ApplicationInsights.config
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\shoppingstore.dll.config
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\shoppingstore.dll
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\shoppingstore.pdb
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\Antlr3.Runtime.dll
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\EntityFramework.dll
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\EntityFramework.SqlServer.dll
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\Microsoft.AI.Agent.Intercept.dll
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\Microsoft.AI.DependencyCollector.dll
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\Microsoft.AI.PerfCounterCollector.dll
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\Microsoft.AI.ServerTelemetryChannel.dll
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\Microsoft.AI.Web.dll
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\Microsoft.AI.WindowsServer.dll
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\Microsoft.ApplicationInsights.dll
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\Microsoft.AspNet.Identity.Core.dll
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\Microsoft.AspNet.Identity.Owin.dll
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\Microsoft.Owin.dll
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\Microsoft.Owin.Host.SystemWeb.dll
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.Cookies.dll
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.dll
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.Facebook.dll
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.Google.dll
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.OAuth.dll
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.Twitter.dll
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\Newtonsoft.Json.dll
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\Owin.dll
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\System.Web.Helpers.dll
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\System.Web.Mvc.dll
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\System.Web.Optimization.dll
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\System.Web.Razor.dll
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\System.Web.WebPages.Deployment.dll
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\System.Web.WebPages.dll
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\System.Web.WebPages.Razor.dll
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\WebGrease.dll
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\System.Web.Helpers.xml
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\System.Web.Mvc.xml
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\System.Web.Optimization.xml
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\System.Web.Razor.xml
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\System.Web.WebPages.xml
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\System.Web.WebPages.Deployment.xml
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\System.Web.WebPages.Razor.xml
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\Antlr3.Runtime.pdb
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\Newtonsoft.Json.xml
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\EntityFramework.xml
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\EntityFramework.SqlServer.xml
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\Microsoft.AspNet.Identity.Core.xml
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\Microsoft.AspNet.Identity.Owin.xml
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\Microsoft.Owin.xml
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\Microsoft.Owin.Host.SystemWeb.xml
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.xml
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.Facebook.xml
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.Cookies.xml
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.OAuth.xml
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.Google.xml
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.Twitter.xml
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\Microsoft.ApplicationInsights.xml
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\Microsoft.AI.DependencyCollector.xml
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\Microsoft.AI.ServerTelemetryChannel.xml
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\Microsoft.AI.WindowsServer.xml
-C:\Users\User\source\repos\shoppingstore\shoppingstore\bin\Microsoft.AI.Web.xml
-C:\Users\User\source\repos\shoppingstore\shoppingstore\obj\Debug\shoppingstore.csproj.CoreCompileInputs.cache
-C:\Users\User\source\repos\shoppingstore\shoppingstore\obj\Debug\shoppingstore.dll
-C:\Users\User\source\repos\shoppingstore\shoppingstore\obj\Debug\shoppingstore.pdb
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\ApplicationInsights.config
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\shoppingstore.dll.config
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\shoppingstore.dll
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\shoppingstore.pdb
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\Antlr3.Runtime.dll
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\EntityFramework.dll
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\EntityFramework.SqlServer.dll
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\Microsoft.AI.Agent.Intercept.dll
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\Microsoft.AI.DependencyCollector.dll
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\Microsoft.AI.PerfCounterCollector.dll
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\Microsoft.AI.ServerTelemetryChannel.dll
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\Microsoft.AI.Web.dll
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\Microsoft.AI.WindowsServer.dll
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\Microsoft.ApplicationInsights.dll
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\Microsoft.AspNet.Identity.Core.dll
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\Microsoft.AspNet.Identity.Owin.dll
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\Microsoft.Owin.dll
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\Microsoft.Owin.Host.SystemWeb.dll
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.Cookies.dll
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.dll
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.Facebook.dll
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.Google.dll
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.OAuth.dll
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.Twitter.dll
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\Newtonsoft.Json.dll
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\Owin.dll
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\System.Web.Helpers.dll
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\System.Web.Mvc.dll
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\System.Web.Optimization.dll
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\System.Web.Razor.dll
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\System.Web.WebPages.Deployment.dll
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\System.Web.WebPages.dll
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\System.Web.WebPages.Razor.dll
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\WebGrease.dll
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\System.Web.Helpers.xml
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\System.Web.Mvc.xml
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\System.Web.Optimization.xml
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\System.Web.Razor.xml
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\System.Web.WebPages.xml
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\System.Web.WebPages.Deployment.xml
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\System.Web.WebPages.Razor.xml
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\Antlr3.Runtime.pdb
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\Newtonsoft.Json.xml
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\EntityFramework.xml
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\EntityFramework.SqlServer.xml
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\Microsoft.AspNet.Identity.Core.xml
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\Microsoft.AspNet.Identity.Owin.xml
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\Microsoft.Owin.xml
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\Microsoft.Owin.Host.SystemWeb.xml
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.xml
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.Facebook.xml
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.Cookies.xml
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.OAuth.xml
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.Google.xml
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.Twitter.xml
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\Microsoft.ApplicationInsights.xml
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\Microsoft.AI.DependencyCollector.xml
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\Microsoft.AI.ServerTelemetryChannel.xml
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\Microsoft.AI.WindowsServer.xml
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\bin\Microsoft.AI.Web.xml
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\obj\Debug\shoppingstore.csproj.CoreCompileInputs.cache
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\obj\Debug\shoppingstore.dll
-C:\Users\User\source\Github Desktop\shoppingstore\shoppingstore\obj\Debug\shoppingstore.pdb
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\ApplicationInsights.config
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\roslyn\csc.exe
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\roslyn\System.Collections.Immutable.dll
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\roslyn\vbc.exe
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\roslyn\VBCSCompiler.exe
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\roslyn\VBCSCompiler.exe.config
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\shoppingstore.dll.config
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\shoppingstore.dll
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\shoppingstore.pdb
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\Antlr3.Runtime.dll
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\EntityFramework.dll
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\EntityFramework.SqlServer.dll
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\Microsoft.AI.Web.dll
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\Microsoft.AI.WindowsServer.dll
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\Microsoft.ApplicationInsights.dll
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\Microsoft.Owin.dll
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.dll
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.Google.dll
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\Microsoft.Web.Infrastructure.dll
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\Newtonsoft.Json.dll
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\Owin.dll
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\System.Web.Helpers.dll
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\System.Web.Mvc.dll
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\System.Web.Optimization.dll
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\System.Web.Razor.dll
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\System.Web.WebPages.Deployment.dll
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\System.Web.WebPages.dll
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\System.Web.WebPages.Razor.dll
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\WebGrease.dll
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\Microsoft.AI.Web.xml
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\Microsoft.AI.WindowsServer.xml
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\Microsoft.ApplicationInsights.xml
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\System.Web.Helpers.xml
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\System.Web.Mvc.xml
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\System.Web.Optimization.xml
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\System.Web.Razor.xml
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\System.Web.WebPages.xml
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\System.Web.WebPages.Deployment.xml
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\System.Web.WebPages.Razor.xml
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\Antlr3.Runtime.pdb
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\Newtonsoft.Json.xml
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\EntityFramework.xml
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\EntityFramework.SqlServer.xml
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\Microsoft.Owin.xml
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.xml
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.Google.xml
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\obj\Debug\shoppingstore.csprojResolveAssemblyReference.cache
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\obj\Debug\shoppingstore.dll
+c:\users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\obj\Debug\shoppingstore.pdb
+C:\Users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\obj\Debug\shoppingstore.Migrations.InitialCreate.resources
+C:\Users\abdo hema\documents\visual studio 2015\Projects\shoppingstore\shoppingstore\obj\Debug\shoppingstore.csproj.GenerateResource.Cache
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\ApplicationInsights.config
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\roslyn\csc.exe
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\roslyn\vbc.exe
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\shoppingstore.dll.config
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\shoppingstore.dll
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\shoppingstore.pdb
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\Antlr3.Runtime.dll
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\EntityFramework.dll
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\Microsoft.AI.Web.dll
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\Microsoft.Owin.dll
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.dll
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\Newtonsoft.Json.dll
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\Owin.dll
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\System.Web.Helpers.dll
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\System.Web.Mvc.dll
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\System.Web.Optimization.dll
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\System.Web.Razor.dll
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\System.Web.WebPages.dll
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\WebGrease.dll
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\Microsoft.AI.Web.xml
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\System.Web.Helpers.xml
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\System.Web.Mvc.xml
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\System.Web.Optimization.xml
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\System.Web.Razor.xml
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\System.Web.WebPages.xml
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\Antlr3.Runtime.pdb
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\Newtonsoft.Json.xml
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\EntityFramework.xml
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\Microsoft.Owin.xml
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.xml
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\obj\Debug\shoppingstore.Migrations.InitialCreate.resources
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\obj\Debug\shoppingstore.csproj.GenerateResource.Cache
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\obj\Debug\shoppingstore.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\obj\Debug\shoppingstore.dll
+C:\Users\User\source\repos\27-04-18\shoppingstore\shoppingstore\shoppingstore\obj\Debug\shoppingstore.pdb

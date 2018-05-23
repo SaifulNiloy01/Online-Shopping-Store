@@ -1,0 +1,25 @@
+Package Manager Console:
+Enable-Migrations -ContextTypeName DefaultConnection -EnableAutomaticMigrations
+
+Migration Folder => Configaration.cs :
+public Configuration()
+        {
+            AutomaticMigrationsEnabled = true;
+            AutomaticMigrationDataLossAllowed = true; //add this line
+        }
+
+
+Global.asax file :
+protected void Application_Start()
+        {
+            //add the first line
+            System.Data.Entity.Database.SetInitializer(new System.Data.Entity.MigrateDatabaseToLatestVersion<Models.DefaultConnection, Migrations.Configuration>());
+            AreaRegistration.RegisterAllAreas();
+            FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
+            RouteConfig.RegisterRoutes(RouteTable.Routes);
+            BundleConfig.RegisterBundles(BundleTable.Bundles);
+        }
+
+
+
+

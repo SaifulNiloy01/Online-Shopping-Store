@@ -8,18 +8,30 @@ namespace shoppingstore.Controllers
 {
     public class StoreController : Controller
     {
-        public string Index()
+        ShoppingStoreEntities storeDB = new ShoppingStoreEntities();
+        // GET: Store
+        public ActionResult Index()
         {
-            return "hello world from index";
+            var categories = storeDB.Categories.ToList();
+            
+            return View(categories);
         }
-        public string Browse(string category)
+        [ChildActionOnly]
+        public ActionResult CategoryMenu()
         {
-            string message = HttpUtility.HtmlEncode(" showing category" + category);
-            return message;
+            var categories = storeDB.Categories.ToList();
+            return PartialView(categories);
+
+        }
+        public ActionResult Browse(string category)
+        {
+            var categoryModel = storeDB.Categories.Include("Items")
+                .Single(c=>c.Name==category);
+            return View(categoryModel);
         }
         public ActionResult Details(int id)
         {
-            var Item = new Item { Title = "item" + id };
+            var Item = storeDB.Items.Find(id);
             return View(Item);
         }
     }
