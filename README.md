@@ -8,4 +8,12 @@ Description : A shopping store for selling products. Some features are :
 - Login and Registration forms
 - Add to Cart
 - Submit Order
-- Administrative control panel etc.
+- Administrative control panel
+- Create new product
+- Update Product
+- Display details information of product
+- Delete product
+- Create new Category
+- Update Category
+- Display details information of Category
+- Delete Category etc.
