@@ -1,6 +1,6 @@
 # Online-Shopping-Store
-Status : Not completed, still working <br>
-Framework : ASP.NET MVC 5
+Framework : ASP.NET MVC 5 <br>
+Front-end : Bootstrap
 
 Description : A shopping store for selling products. Some features are : 
 - Catalogue of products displayed under different categories
