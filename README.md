@@ -1,6 +1,5 @@
 # Online-Shopping-Store
-Framework : ASP.NET MVC 5 <br>
-Front-end : Bootstrap
+Web Technology : ASP.NET MVC 5, Entity Framework (Datebase First), Bootstrap, SQL Server
 
 Description : A shopping store for selling products. Some features are : 
 - Catalogue of products displayed under different categories
