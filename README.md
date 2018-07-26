@@ -1,7 +1,7 @@
 # Online-Shopping-Store
 Web Technology : ASP.NET MVC 5, Entity Framework (Database First), Bootstrap, SQL Server
 
-Description : A shopping store for selling products. Some features are : 
+Description : A shopping store for selling different types of products. Some features are : 
 - Catalogue of products displayed under different categories
 - Display most popular items
 - Login and Registration forms
